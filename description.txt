@@ -1,0 +1,1 @@
+The output.csv file I created looks at House Expenditures in Q1 of 2017 that use "CAR RENTAL" as the purpose and have an amount greater than 100 USD. The maximum value is $3,624. This seems like quite a lot for car rentals in one quarter, especially considering the mean is about $368!
